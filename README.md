@@ -1,13 +1,18 @@
-# student_performance_analysis
-# Student Performance Analysis
+# Machine Learning Data Processing & Student Performance Analysis
 
-This project is designed to analyze student performance. It is in Jupyter Notebook format and includes data analysis and visualizations to examine factors affecting student success.
+This repository contains two Jupyter Notebooks related to data processing and analysis in machine learning.
 
 ## 📌 Contents
-- **Dataset**: Information about the dataset used
-- **Preprocessing**: Steps such as handling missing data and data transformation
-- **Analysis**: Data visualization and statistical analysis
-- **Results**: Findings and interpretations
+
+### 1️⃣ Student Performance Analysis
+- **Objective**: Analyze factors affecting student performance.
+- **Steps**: Data preprocessing, visualization, and statistical analysis.
+- **File**: `student_performance_analysis.ipynb`
+
+### 2️⃣ Machine Learning Data Processing
+- **Objective**: Preprocess datasets for machine learning models.
+- **Steps**: Data cleaning, feature engineering, and normalization.
+- **File**: `machine_learning_data_processing.ipynb`
 
 ## 🚀 How to Run?
 1. Install the required dependencies:
@@ -18,10 +23,10 @@ This project is designed to analyze student performance. It is in Jupyter Notebo
    ```bash
    jupyter notebook
    ```
-3. Open `student_performance_analysis.ipynb` and follow the steps.
+3. Open the desired `.ipynb` file and follow the steps.
 
 ## 🛠 Technologies Used
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Jupyter Notebook
 
 
