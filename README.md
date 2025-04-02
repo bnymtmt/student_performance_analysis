@@ -24,6 +24,5 @@ This project is designed to analyze student performance. It is in Jupyter Notebo
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 
-## 📌 License
-This project is licensed under the MIT License.
+
 
